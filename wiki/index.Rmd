@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "Iles des Morts"
+author: "Artho"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -8,11 +8,9 @@ bibliography:
 - book.bib
 - packages.bib
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  set in the _output.yml file.
-  The HTML output format for this example is bookdown::gitbook,
+  Un wiki pour la campagne
 link-citations: yes
-github-repo: "rstudio/bookdown-demo"
+github-repo: "JHuguenin/Eberron_NC"
 ---
 
 # About
